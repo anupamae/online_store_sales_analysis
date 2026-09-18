@@ -42,41 +42,7 @@ The project answers questions such as:
 * Which products have prices above the average price?
 * Which products belong to a particular category?
 
-## Project Structure
-
-```text
-online_store_sales_analysis/
-│
-├── data/
-│   └── sales_data.py
-│
-├── analysis/
-│   └── sales_analysis.py
-│
-├── practice/
-│   └── python_sales_exercises.py
-│
-├── main.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-### Folder description
-
-**`data/`**
-Contains the sales dataset.
-
-**`analysis/`**
-Contains reusable functions used to analyze the sales data.
-
-**`practice/`**
-Contains the Python exercises I completed while building the project.
-
-**`main.py`**
-Runs the final sales analysis report.
-
-## Example Output
+##  Output
 
 ```text
 ========== SALES REPORT ==========
@@ -88,14 +54,6 @@ Revenue by category:
 Electronics - 9590
 Furniture - 3660
 ```
-
-## Technologies
-
-* Python
-* Git
-* GitHub
-
-No external Python libraries are required for the current version.
 
 ## How to Run
 
